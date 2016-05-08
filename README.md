@@ -44,7 +44,7 @@ steam@server-linux> sh ark-workshop-updater.sh
 
 *--check-update : vérifie si des workshops sont à mettre à jour.
 
-*--email "votre.email@mail.com"
+*--mail "votre.email@mail.com"
 
 *--list-workshop : liste les workshops présent sur le serveur
 
@@ -59,5 +59,4 @@ steam@server-linux> sh ark-workshop-updater.sh
 
 
 #### TODO :
-
 * - ToDo list des trucs a faire
